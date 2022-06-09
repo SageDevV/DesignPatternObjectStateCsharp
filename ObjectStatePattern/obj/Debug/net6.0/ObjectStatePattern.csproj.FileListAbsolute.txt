@@ -1,0 +1,15 @@
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\bin\Debug\net6.0\ObjectStatePattern.exe
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\bin\Debug\net6.0\ObjectStatePattern.deps.json
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\bin\Debug\net6.0\ObjectStatePattern.runtimeconfig.json
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\bin\Debug\net6.0\ObjectStatePattern.dll
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\bin\Debug\net6.0\ObjectStatePattern.pdb
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\ObjectStatePattern.csproj.AssemblyReference.cache
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\ObjectStatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\ObjectStatePattern.AssemblyInfoInputs.cache
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\ObjectStatePattern.AssemblyInfo.cs
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\ObjectStatePattern.csproj.CoreCompileInputs.cache
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\ObjectStatePattern.dll
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\refint\ObjectStatePattern.dll
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\ObjectStatePattern.pdb
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\ObjectStatePattern.genruntimeconfig.cache
+C:\Workspace.NET\Aplicações\ObjectStatePattern\ObjectStatePattern\obj\Debug\net6.0\ref\ObjectStatePattern.dll
